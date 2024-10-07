@@ -1,0 +1,3 @@
+// mongodb command
+
+db.school.deleteMany({name:"Holberton school"})
