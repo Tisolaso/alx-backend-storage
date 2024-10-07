@@ -1,3 +1,2 @@
 // mongodb command
-
 db.school.find({name:"Holberton school"})
