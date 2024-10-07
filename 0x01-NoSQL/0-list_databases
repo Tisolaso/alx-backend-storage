@@ -1,2 +1,3 @@
 // mongodb command
-show dbs;
+
+show dbs
